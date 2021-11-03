@@ -1,8 +1,9 @@
 {
-  "npmScope": "lupin3d",
+  "npmScope": "biltong-junkies",
   "affected": {
     "defaultBase": "master"
   },
+  "defaultProject": "biltong-junkies-app",
   "cli": {
     "defaultCollection": "@nrwl/angular",
     "packageManager": "npm"
@@ -18,12 +19,7 @@
     "default": {
       "runner": "@nrwl/workspace/tasks-runners/default",
       "options": {
-        "cacheableOperations": [
-          "build",
-          "lint",
-          "test",
-          "e2e"
-        ]
+        "cacheableOperations": ["build", "lint", "test", "e2e"]
       }
     }
   },
@@ -50,6 +46,5 @@
     "@nrwl/angular:component": {
       "style": "scss"
     }
-  },
-  "defaultProject": "biltong-junkies"
+  }
 }

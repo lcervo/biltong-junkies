@@ -1,5 +1,5 @@
 module.exports = {
-  displayName: 'biltong-junkies',
+  displayName: 'biltong-junkies-app',
   preset: '../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
   globals: {
@@ -8,7 +8,7 @@ module.exports = {
       stringifyContentPathRegex: '\\.(html|svg)$',
     },
   },
-  coverageDirectory: '../../coverage/apps/biltong-junkies',
+  coverageDirectory: '../../coverage/apps/biltong-junkies-app',
   transform: {
     '^.+\\.(ts|js|html)$': 'jest-preset-angular',
   },
