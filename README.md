@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-
 # Lupin3d
 
 This project was generated using [Nx](https://nx.dev).
@@ -104,7 +101,3 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
-=======
-# biltong-junkies
-biltong
->>>>>>> e3fc4bbfb90aafbca5c70be570ae088761eed27c
