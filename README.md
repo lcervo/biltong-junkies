@@ -1,4 +1,4 @@
-# Lupin3d
+# Biltong Junkie
 
 This project was generated using [Nx](https://nx.dev).
 
